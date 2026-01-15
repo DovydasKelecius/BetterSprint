@@ -6,13 +6,15 @@ This mod is ideal for players who want a more fluid movement system while keepin
 
 # ✨ Features
 
-Improved sprint handling and responsiveness
+- Improved sprint handling and responsiveness
 
-More natural-feeling player movement
+- More natural-feeling player movement
 
-Lightweight and performance-friendly
+- Rewards player for quick reactions
 
-Designed to integrate seamlessly with vanilla gameplay
+- Lightweight and performance-friendly
+
+- Designed to integrate seamlessly with vanilla gameplay
 
 # 📦 Requirements
 
