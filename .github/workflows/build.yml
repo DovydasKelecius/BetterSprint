@@ -87,6 +87,8 @@ jobs:
     - name: Create Release
       uses: softprops/action-gh-release@v1
       with:
-        files: build/libs/*.jar
+        files: |
+          build/libs/*.jar
+          buildSrc/[kedo]BetterMovement-v1.0.0.zip
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
